@@ -1,4 +1,4 @@
-## 📝 Reflection
+Reflection
 
 This first mission honestly felt like stepping into the real world of IT. As a Junior Cloud Infrastructure Engineer Trainee at CloudNova Technologies, I got to experience what it's like working inside a Linux environment—something I've only read about before. Using KillerCoda gave me a safe space to practice without worrying about breaking anything, which made the whole learning process less intimidating.
 
