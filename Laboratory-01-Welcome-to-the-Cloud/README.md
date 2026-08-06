@@ -1,4 +1,3 @@
-# Cloud Computing Portfolio - Mission 1
 
 ## 🚀 Mission Overview
 
