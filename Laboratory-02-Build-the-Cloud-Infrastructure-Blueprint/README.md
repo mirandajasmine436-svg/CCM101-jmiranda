@@ -1,4 +1,4 @@
-# Laboratory Activity 2 – Build the Cloud Infrastructure Blueprint
+# Technical Documentation
 
 ## Mission Overview
 
