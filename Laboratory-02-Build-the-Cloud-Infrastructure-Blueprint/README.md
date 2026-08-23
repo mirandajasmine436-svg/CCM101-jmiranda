@@ -2,10 +2,14 @@
 
 ## Mission Overview
 
-CloudNova Technologies has assigned this project to investigate the infrastructure that supports modern cloud computing. Before deploying cloud services, a cloud engineer must understand how compute, storage, networking, and operating system resources work together.
-
-In this laboratory activity, I investigated a Linux server environment using the KillerCoda Playground, documented the server's infrastructure information, researched major cloud providers, created a simple cloud architecture diagram, and organized the results in a GitHub Cloud Computing Portfolio.
-
+Congratulations,
+Your onboarding has been successfully completed, and your Cloud Computing Portfolio has been approved by
+your supervisor.
+CloudNova Technologies has now assigned you to your first official project.
+Before deploying cloud services, every cloud engineer must understand the infrastructure that powers modern
+cloud computing. Your mission is to investigate the components of cloud infrastructure, identify how compute,
+storage, networking, and identity services work together, and document your findings as if you were preparing
+technical documentation for a client.
 ## Objectives
 
 The objectives of this laboratory activity were to:
