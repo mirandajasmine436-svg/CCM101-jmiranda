@@ -44,4 +44,5 @@ Azure is commonly used for enterprise application hosting, Windows Server worklo
 
 
 * Microsoft Azure Portal documentation
+* https://learn.microsoft.com/en-us/azure/azure-portal/
   
