@@ -42,3 +42,4 @@ Google Cloud is commonly used for artificial intelligence and machine learning, 
 
 ## Sources
 * Google Cloud official documentation
+* https://docs.cloud.google.com/docs
