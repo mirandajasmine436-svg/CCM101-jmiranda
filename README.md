@@ -4,7 +4,7 @@
 
 Hello, I'm **Jasmine Mae A. Miranda**.
 
-This repository serves as both a portfolio and a learning diary for my cloud computing journey. Throughout this semester, I will capture every new concept, hands-on exercise, and breakthrough moment as I explore Linux environments, cloud infrastructure, networking, automation, and other modern technologies.
+This repository serves as both a portfolio and a learning diary for my cloud computing journey. Throughout this semester, I will capture every new concept, hands-on exercise, and breakthrough moment as I explore Linux environments, cloud infrastructure, networking, automation, containerization, and other modern technologies.
 
 Each laboratory activity I complete marks a meaningful step forward in my development as a future technology professional. 💻☁️
 
@@ -25,7 +25,7 @@ This portfolio not only tracks my progress but also demonstrates my commitment t
 | ✅ | **Laboratory Activity 1** | Cloud Infrastructure Assessment |
 | ✅ | **Laboratory Activity 2** | Build the Cloud Infrastructure Blueprint |
 | ✅ | **Laboratory Activity 3** | Become a Multi-Cloud Explorer |
-| ⏳ | **Laboratory Activity 4** | Coming Soon |
+| ✅ | **Laboratory Activity 4** | Cloud-Native Engineer |
 | ⏳ | **Laboratory Activity 5** | Coming Soon |
 
 > ✅ **Completed**  
@@ -45,6 +45,8 @@ Throughout this course, I aim to strengthen my knowledge in:
 - 📝 Technical Documentation
 - 🔐 Cloud Security Fundamentals
 - ⚙️ Automation & Scripting
+- 🐳 Docker & Containerization
+- 📦 Container Management
 - 🧩 Problem Solving
 
 ---
@@ -69,7 +71,7 @@ As I progress through the semester, this repository will continue to grow with e
 
 > *"Cloud computing is not just about mastering technology—it's about understanding how innovation connects people, systems, and possibilities."*
 
-By the end of this semester, I aim to become more proficient in **Linux, cloud platforms, and professional development tools**.
+By the end of this semester, I aim to become more proficient in **Linux, cloud platforms, Docker, and professional development tools**.
 
 More importantly, I hope to build a portfolio that truly reflects my growth, experiences, and readiness to contribute as a future IT professional. 💙
 
@@ -77,15 +79,20 @@ More importantly, I hope to build a portfolio that truly reflects my growth, exp
 
 ## 🌟 My Progress
 
-**Laboratory Activities Completed: 3**
+**Laboratory Activities Completed: 4**
 
-`████████████░░░░░░░░` **3 / 5**
+`████████████████░░░░` **4 / 5**
 
 ### 🏆 Completed So Far
 
-- ✅ Laboratory Activity 1
-- ✅ Laboratory Activity 2
-- ✅ Laboratory Activity 3
+- ✅ Laboratory Activity 1 – Cloud Infrastructure Assessment
+- ✅ Laboratory Activity 2 – Build the Cloud Infrastructure Blueprint
+- ✅ Laboratory Activity 3 – Become a Multi-Cloud Explorer
+- ✅ Laboratory Activity 4 – Cloud-Native Engineer
+
+### 🔜 Next
+
+- ⏳ Laboratory Activity 5 – Coming Soon
 
 I'm excited to continue learning, improving, and building more projects throughout the semester! 🚀☁️
 
