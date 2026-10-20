@@ -9,3 +9,11 @@
 
 **Why application logs are vital for troubleshooting:**
 Application logs are vital for troubleshooting because they provide a historical record of exactly what happened inside the container. While metrics might tell you *that* an error occurred (like a spike in failed requests), the logs tell you *why* it happened by showing the exact URL, timestamp, and IP address that triggered the issue. As a Cloud Operations Engineer, logs are the first place I look when a user reports a broken page.
+
+
+## 📈 Container Metrics (Docker Stats)
+
+- **Container Name:** client-website
+- **Memory Usage at time of screenshot:** 2.734MiB / 1.859GiB
+- **CPU % at time of screenshot:** 0.00%
+- **Network I/O:** 3.84kB / 5.29kB
