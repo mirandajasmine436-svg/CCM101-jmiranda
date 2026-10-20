@@ -28,7 +28,9 @@ This portfolio not only tracks my progress but also demonstrates my commitment t
 | ✅ | **Laboratory Activity 4** | Cloud-Native Engineer |
 | ✅ | **Laboratory Activity 5** | Cloud Data Engineer |
 | ✅ | **Laboratory Activity 6** | Cloud Deployment Engineer |
-| ⏳ | **Laboratory Activity 7** | Coming Soon |
+| ✅ | **Laboratory Activity 7** | Cloud Operations Engineer |
+| ⏳ | **Laboratory Activity 8** | Coming Soon |
+| ⏳ | **Laboratory Activity 9** | Coming Soon |
 
 > ✅ **Completed**  
 > ⏳ **In Progress / Coming Soon**
@@ -51,6 +53,7 @@ Throughout this course, I aim to strengthen my knowledge in:
 - 📦 Container Management
 - 🗄️ Object Storage & S3-Compatible Systems
 - 🏗️ Infrastructure as Code (IaC) & Docker Compose
+- 📊 System Monitoring & Observability (SRE)
 - 🧩 Problem Solving
 
 ---
@@ -83,9 +86,9 @@ More importantly, I hope to build a portfolio that truly reflects my growth, exp
 
 ## 🌟 My Progress
 
-**Laboratory Activities Completed: 6**
+**Laboratory Activities Completed: 7**
 
-`█████████████████░░░` **6 / 7**
+`███████████████░░░░░` **7 / 9**
 
 ### 🏆 Completed So Far
 
@@ -95,10 +98,12 @@ More importantly, I hope to build a portfolio that truly reflects my growth, exp
 - ✅ Laboratory Activity 4 – Cloud-Native Engineer
 - ✅ Laboratory Activity 5 – Cloud Data Engineer
 - ✅ Laboratory Activity 6 – Cloud Deployment Engineer
+- ✅ Laboratory Activity 7 – Cloud Operations Engineer
 
 ### 🔜 Next
 
-- ⏳ Laboratory Activity 7 – Coming Soon
+- ⏳ Laboratory Activity 8 – Coming Soon
+- ⏳ Laboratory Activity 9 – Coming Soon
 
 I'm excited to continue learning, improving, and building more projects throughout the semester! 🚀☁️
 
