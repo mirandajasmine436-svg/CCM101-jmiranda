@@ -30,7 +30,7 @@ This portfolio not only tracks my progress but also demonstrates my commitment t
 | ✅ | **Laboratory Activity 6** | Cloud Deployment Engineer |
 | ✅ | **Laboratory Activity 7** | Cloud Operations Engineer |
 | ✅ | **Laboratory Activity 8** | Cloud Security Engineer |
-| ⏳ | **Laboratory Activity 9** | Coming Soon |
+| ✅ | **Laboratory Activity 9** | Cloud Automation Engineer |
 
 > ✅ **Completed**  
 > ⏳ **In Progress / Coming Soon**
@@ -86,9 +86,9 @@ More importantly, I hope to build a portfolio that truly reflects my growth, exp
 
 ## 🌟 My Progress
 
-**Laboratory Activities Completed: 8**
+**Laboratory Activities Completed: 9**
 
-`█████████████████░░░` **8 / 9**
+`████████████████████` **9 / 9**
 
 ### 🏆 Completed So Far
 
@@ -100,10 +100,11 @@ More importantly, I hope to build a portfolio that truly reflects my growth, exp
 - ✅ Laboratory Activity 6 – Cloud Deployment Engineer
 - ✅ Laboratory Activity 7 – Cloud Operations Engineer
 - ✅ Laboratory Activity 8 – Cloud Security Engineer
+- ✅ Laboratory Activity 9 – Cloud Automation Engineer
 
 ### 🔜 Next
 
-- ⏳ Laboratory Activity 9 – Coming Soon
+- 🎓 **All Missions Complete!** Ready for the final semester wrap-up.
 
 I'm excited to continue learning, improving, and building more projects throughout the semester! 🚀☁️
 
